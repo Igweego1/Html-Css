@@ -1,0 +1,1301 @@
+.logo-sizing {
+  width: 100px;
+  height: 100px;
+}
+.btn-warning {
+  background-color: #ff8500;
+  border-color: #ff8500;
+  color: #ffffff;
+  font-family: "Jost", sans-serif;
+  font-size: 1rem;
+  padding: 1.05rem 1.5625rem;
+  border-radius: 5px;
+  position: relative;
+  font-weight: 400;
+  margin: 0.4rem 0.9rem;
+  border: 1px solid;
+  font-style: normal;
+  transition: all 0.2s ease-out;
+  display: inline-flex;
+  justify-content: center;
+  line-height: 1;
+  letter-spacing: 0.02em;
+}
+
+/* .half-1-con {
+  height: 400px;
+} */
+
+.sec-title-padding {
+  padding-top: 100px;
+}
+.nav-link {
+  font-weight: 500;
+  line-height: 70px;
+  letter-spacing: 0.02em;
+  position: relative;
+}
+
+.sec-1-img {
+  /* background-image: url("../img/rent2-640x960.jpg");*/
+  object-fit: cover;
+  background-position: 50% 50%;
+  /* width: 400px; */
+  height: 660px;
+}
+.rent {
+  color: #ff8500;
+  font-family: "Jost", sans-serif;
+  font-size: 1rem;
+  letter-spacing: 0.3em;
+  font-weight: 500;
+  line-height: 1.12;
+  width: 100%;
+}
+.professional {
+  color: #000000;
+  font-family: "Jost", sans-serif;
+  font-size: 4rem;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.align-center {
+  text-align: center;
+}
+
+/* SECTION 2 */
+.sec-2-bg {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #0f2853;
+}
+.start {
+  color: #ffffff;
+  font-family: "Jost", sans-serif;
+  font-size: 3rem;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+
+/* SECTION 3 */
+.sec3-img {
+  height: 500px;
+  width: 500px;
+  object-fit: cover;
+}
+.sec-3-div-con {
+  height: 500px;
+}
+
+.modern {
+  color: #ff8500;
+  font-family: "Jost", sans-serif;
+  font-size: 1rem;
+  letter-spacing: 0.3em;
+  margin-bottom: 4px;
+  font-weight: 500;
+  line-height: 1.12;
+  width: 100%;
+  display: block;
+  margin-block-start: 1.33em;
+  margin-block-end: 1.33em;
+}
+
+/* SECTION 4 */
+.sec-4-bg {
+  background-color: #0f2853;
+  /* height: 240px; */
+}
+.we {
+  font-family: "Jost", sans-serif;
+  font-size: 3rem;
+  margin: 0;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  color: #000000;
+  padding: 0;
+  font-style: normal;
+  line-height: 1.12;
+}
+.list-items {
+  list-style: none;
+  padding: 0;
+  color: #555b63;
+  font-family: "Jost", sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.bb {
+  /* position: absolute; */
+  background: transparent;
+  color: #ffffff;
+  height: 200px;
+}
+.cards-h {
+  height: 237px;
+  border: none;
+}
+
+/* SECTION 8 */
+.sec-8-bg {
+  background-color: #f7f8fa;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.orange-box {
+  background-color: #ff8500;
+  padding: 120px;
+}
+.blue-box {
+  background-color: #0f2853;
+  padding: 120px;
+}
+.ash-box {
+  background-color: #cccccc;
+  padding: 120px;
+}
+.svg-box-color {
+  color: white;
+}
+
+/* SECTION 9 */
+.sec-9-bg {
+  background-color: #f7f8fa;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.lorem-main {
+  color: #555b63;
+  font-family: "Jost", sans-serif;
+  font-size: 1rem;
+  font-style: normal;
+  line-height: 1.62;
+  width: 550px;
+}
+
+.btn-warning-general {
+  background-color: #ff8500;
+  border-color: #ff8500;
+}
+
+.Special-padding {
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
+
+.sec-9-container {
+  padding-top: 120px;
+  padding-bottom: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.img-sec9-arrange {
+  margin-left: 70px;
+}
+.blue-bg-sizing {
+  background-color: #0f2853;
+  height: 509px;
+  width: 500px;
+  position: relative;
+}
+.blue-bg-img-sizing {
+  width: 500px;
+  height: 509px;
+  position: absolute;
+  left: 30px;
+  bottom: 30px;
+}
+.bg-color-main {
+  background-color: #f7f8fa;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* .secmain-bg-sizing {
+  width: 100%;
+} */
+.black-lorem {
+  font-family: "Jost", sans-serif;
+  font-size: 1rem;
+  padding-bottom: 15px;
+  font-weight: 500;
+  color: #000000;
+  padding-bottom: 15px;
+  letter-spacing: normal;
+  line-height: 1.62;
+}
+.company {
+  color: #0f2853;
+  font-family: "Jost", sans-serif;
+  font-size: 1rem;
+  padding-bottom: 15px;
+  font-weight: 500;
+  padding-bottom: 15px;
+  letter-spacing: normal;
+}
+
+/* SECTION 11 */
+.input-group {
+  height: 50px;
+}
+.form-control {
+  border-radius: 0%;
+  background-color: transparent;
+}
+.footer-logo-sizing {
+  width: 120px;
+  height: 120px;
+}
+
+.lorem-sizing {
+  width: 290px;
+}
+
+.footer-lorem {
+  color: #555b63;
+  font-style: normal;
+  font-weight: 400;
+  cursor: pointer;
+  font-weight: 500;
+  font-family: "Jost", sans-serif;
+  font-size: 1rem;
+}
+
+.sec-full-img {
+  background-image: url("../img/meeting.jpg");
+  height: 430px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* SECTION 5 */
+.sec-5-sizing {
+  padding-top: 150px;
+}
+.off-con-position {
+  height: 328px;
+  width: 500px;
+  position: relative;
+}
+
+.office-img-1 {
+  background-image: url("../img/office1.jpg");
+  height: 328px;
+  width: 500px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.office-img-2 {
+  /* background-image: url("../img/office2.jpg");
+  
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  bottom: 1px; */
+  height: 328px;
+  width: 500px;
+  position: absolute;
+  bottom: 15px;
+}
+
+.office-img-3 {
+  background-image: url("../img/office3.jpg");
+  height: 328px;
+  width: 500px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.office-img-4 {
+  height: 328px;
+  width: 500px;
+  position: absolute;
+  bottom: 15px;
+}
+.office-text {
+  font-family: "Jost", sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  .logo-sizing {
+    width: 100px;
+    height: 100px;
+  }
+  .btn-warning {
+    background-color: #ff8500;
+    border-color: #ff8500;
+    color: #ffffff;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    padding: 1.05rem 1.5625rem;
+    border-radius: 5px;
+    position: relative;
+    font-weight: 400;
+    margin: 0.4rem 0.9rem;
+    border: 1px solid;
+    font-style: normal;
+    transition: all 0.2s ease-out;
+    display: inline-flex;
+    justify-content: center;
+    line-height: 1;
+    letter-spacing: 0.02em;
+  }
+
+  .sec-title-padding {
+    padding-top: 100px;
+  }
+  .nav-link {
+    font-weight: 500;
+    line-height: 70px;
+    letter-spacing: 0.02em;
+    position: relative;
+  }
+  .sec-1-img {
+    object-fit: cover;
+    background-position: 50% 50%;
+    height: 660px;
+  }
+  .rent {
+    color: #ff8500;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    letter-spacing: 0.3em;
+    font-weight: 500;
+    line-height: 1.12;
+    width: 100%;
+  }
+  .professional {
+    color: #000000;
+    font-family: "Jost", sans-serif;
+    font-size: 4rem;
+    letter-spacing: -0.01em;
+    font-weight: 500;
+  }
+  .align-center {
+    text-align: center;
+  }
+
+  /* SECTION 2 */
+  .sec-2-bg {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #0f2853;
+  }
+  .start {
+    color: #ffffff;
+    font-family: "Jost", sans-serif;
+    font-size: 3rem;
+    letter-spacing: -0.01em;
+    font-weight: 500;
+  }
+
+  /* SECTION 3 */
+  .sec3-img {
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+  }
+  .sec-3-div-con {
+    height: 500px;
+  }
+
+  .modern {
+    color: #ff8500;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    letter-spacing: 0.3em;
+    margin-bottom: 4px;
+    font-weight: 500;
+    line-height: 1.12;
+    width: 100%;
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+  }
+
+  /* SECTION 4 */
+  .sec-4-bg {
+    background-color: #0f2853;
+  }
+  .we {
+    font-family: "Jost", sans-serif;
+    font-size: 3rem;
+    margin: 0;
+    letter-spacing: -0.01em;
+    font-weight: 500;
+    color: #000000;
+    padding: 0;
+    font-style: normal;
+    line-height: 1.12;
+  }
+  .list-items {
+    list-style: none;
+    padding: 0;
+    color: #555b63;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+  .bb {
+    background: transparent;
+    color: #ffffff;
+    height: 200px;
+  }
+  .cards-h {
+    height: 237px;
+    border: none;
+  }
+
+  /* SECTION 8 */
+  .sec-8-bg {
+    background-color: #f7f8fa;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .orange-box {
+    background-color: #ff8500;
+    padding: 120px;
+  }
+  .blue-box {
+    background-color: #0f2853;
+    padding: 120px;
+  }
+  .ash-box {
+    background-color: #cccccc;
+    padding: 120px;
+  }
+  .svg-box-color {
+    color: white;
+  }
+
+  /* SECTION 9 */
+  .sec-9-bg {
+    background-color: #f7f8fa;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .lorem-main {
+    color: #555b63;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    line-height: 1.62;
+    width: 550px;
+  }
+
+  .btn-warning-general {
+    background-color: #ff8500;
+    border-color: #ff8500;
+  }
+
+  .Special-padding {
+    padding-top: 150px;
+    padding-bottom: 100px;
+  }
+
+  .sec-9-container {
+    padding-top: 120px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .img-sec9-arrange {
+    margin-left: 70px;
+  }
+  .blue-bg-sizing {
+    background-color: #0f2853;
+    height: 509px;
+    width: 500px;
+    position: relative;
+  }
+  .blue-bg-img-sizing {
+    width: 500px;
+    height: 509px;
+    position: absolute;
+    left: 30px;
+    bottom: 30px;
+  }
+  .bg-color-main {
+    background-color: #f7f8fa;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .black-lorem {
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    padding-bottom: 15px;
+    font-weight: 500;
+    color: #000000;
+    padding-bottom: 15px;
+    letter-spacing: normal;
+    line-height: 1.62;
+  }
+  .company {
+    color: #0f2853;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    padding-bottom: 15px;
+    font-weight: 500;
+    padding-bottom: 15px;
+    letter-spacing: normal;
+  }
+
+  /* SECTION 11 */
+  .input-group {
+    height: 50px;
+  }
+  .form-control {
+    border-radius: 0%;
+    background-color: transparent;
+  }
+  .footer-logo-sizing {
+    width: 120px;
+    height: 120px;
+  }
+
+  .lorem-sizing {
+    width: 290px;
+  }
+
+  .footer-lorem {
+    color: #555b63;
+    font-style: normal;
+    font-weight: 400;
+    cursor: pointer;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+  }
+
+  .sec-full-img {
+    background-image: url("../img/meeting.jpg");
+    height: 430px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  /* SECTION 5 */
+  .sec-5-sizing {
+    padding-top: 150px;
+  }
+  .off-con-position {
+    height: 328px;
+    width: 500px;
+    position: relative;
+  }
+
+  .office-img-1 {
+    background-image: url("../img/office1.jpg");
+    height: 328px;
+    width: 500px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .office-img-2 {
+    height: 328px;
+    width: 500px;
+    position: absolute;
+    bottom: 15px;
+  }
+
+  .office-img-3 {
+    background-image: url("../img/office3.jpg");
+    height: 328px;
+    width: 500px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .office-img-4 {
+    height: 328px;
+    width: 500px;
+    position: absolute;
+    bottom: 15px;
+  }
+  .office-text {
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+  }
+}
+
+/* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+}
+
+/* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+}
+
+/* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+}
+
+/* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .logo-sizing {
+    width: 100px;
+    height: 100px;
+  }
+  .btn-warning {
+    background-color: #ff8500;
+    border-color: #ff8500;
+    color: #ffffff;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    padding: 1.05rem 1.5625rem;
+    border-radius: 5px;
+    position: relative;
+    font-weight: 400;
+    margin: 0.4rem 0.9rem;
+    border: 1px solid;
+    font-style: normal;
+    transition: all 0.2s ease-out;
+    display: inline-flex;
+    justify-content: center;
+    line-height: 1;
+    letter-spacing: 0.02em;
+  }
+
+  .sec-title-padding {
+    padding-top: 100px;
+  }
+  .nav-link {
+    font-weight: 500;
+    line-height: 70px;
+    letter-spacing: 0.02em;
+    position: relative;
+  }
+  .sec-1-img {
+    object-fit: cover;
+    background-position: 50% 50%;
+    height: 660px;
+  }
+  .rent {
+    color: #ff8500;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    letter-spacing: 0.3em;
+    font-weight: 500;
+    line-height: 1.12;
+    width: 100%;
+  }
+  .professional {
+    color: #000000;
+    font-family: "Jost", sans-serif;
+    font-size: 4rem;
+    letter-spacing: -0.01em;
+    font-weight: 500;
+  }
+  .align-center {
+    text-align: center;
+  }
+
+  /* SECTION 2 */
+  .sec-2-bg {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #0f2853;
+  }
+  .start {
+    color: #ffffff;
+    font-family: "Jost", sans-serif;
+    font-size: 3rem;
+    letter-spacing: -0.01em;
+    font-weight: 500;
+  }
+
+  /* SECTION 3 */
+  .sec3-img {
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+  }
+  .sec-3-div-con {
+    height: 500px;
+  }
+
+  .modern {
+    color: #ff8500;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    letter-spacing: 0.3em;
+    margin-bottom: 4px;
+    font-weight: 500;
+    line-height: 1.12;
+    width: 100%;
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+  }
+
+  /* SECTION 4 */
+  .sec-4-bg {
+    background-color: #0f2853;
+  }
+  .we {
+    font-family: "Jost", sans-serif;
+    font-size: 3rem;
+    margin: 0;
+    letter-spacing: -0.01em;
+    font-weight: 500;
+    color: #000000;
+    padding: 0;
+    font-style: normal;
+    line-height: 1.12;
+  }
+  .list-items {
+    list-style: none;
+    padding: 0;
+    color: #555b63;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+  .bb {
+    background: transparent;
+    color: #ffffff;
+    height: 200px;
+  }
+  .cards-h {
+    height: 237px;
+    border: none;
+  }
+
+  /* SECTION 8 */
+  .sec-8-bg {
+    background-color: #f7f8fa;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .orange-box {
+    background-color: #ff8500;
+    padding: 120px;
+  }
+  .blue-box {
+    background-color: #0f2853;
+    padding: 120px;
+  }
+  .ash-box {
+    background-color: #cccccc;
+    padding: 120px;
+  }
+  .svg-box-color {
+    color: white;
+  }
+
+  /* SECTION 9 */
+  .sec-9-bg {
+    background-color: #f7f8fa;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .lorem-main {
+    color: #555b63;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    line-height: 1.62;
+    width: 550px;
+  }
+
+  .btn-warning-general {
+    background-color: #ff8500;
+    border-color: #ff8500;
+  }
+
+  .Special-padding {
+    padding-top: 150px;
+    padding-bottom: 100px;
+  }
+
+  .sec-9-container {
+    padding-top: 120px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .img-sec9-arrange {
+    margin-left: 70px;
+  }
+  .blue-bg-sizing {
+    background-color: #0f2853;
+    height: 509px;
+    width: 500px;
+    position: relative;
+  }
+  .blue-bg-img-sizing {
+    width: 500px;
+    height: 509px;
+    position: absolute;
+    left: 30px;
+    bottom: 30px;
+  }
+  .bg-color-main {
+    background-color: #f7f8fa;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .black-lorem {
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    padding-bottom: 15px;
+    font-weight: 500;
+    color: #000000;
+    padding-bottom: 15px;
+    letter-spacing: normal;
+    line-height: 1.62;
+  }
+  .company {
+    color: #0f2853;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    padding-bottom: 15px;
+    font-weight: 500;
+    padding-bottom: 15px;
+    letter-spacing: normal;
+  }
+
+  /* SECTION 11 */
+  .input-group {
+    height: 50px;
+  }
+  .form-control {
+    border-radius: 0%;
+    background-color: transparent;
+  }
+  .footer-logo-sizing {
+    width: 120px;
+    height: 120px;
+  }
+
+  .lorem-sizing {
+    width: 290px;
+  }
+
+  .footer-lorem {
+    color: #555b63;
+    font-style: normal;
+    font-weight: 400;
+    cursor: pointer;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+  }
+
+  .sec-full-img {
+    background-image: url("../img/meeting.jpg");
+    height: 430px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  /* SECTION 5 */
+  .sec-5-sizing {
+    padding-top: 150px;
+  }
+  .off-con-position {
+    height: 328px;
+    width: 500px;
+    position: relative;
+  }
+
+  .office-img-1 {
+    background-image: url("../img/office1.jpg");
+    height: 328px;
+    width: 500px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .office-img-2 {
+    height: 328px;
+    width: 500px;
+    position: absolute;
+    bottom: 15px;
+  }
+
+  .office-img-3 {
+    background-image: url("../img/office3.jpg");
+    height: 328px;
+    width: 500px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .office-img-4 {
+    height: 328px;
+    width: 500px;
+    position: absolute;
+    bottom: 15px;
+  }
+  .office-text {
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+  }
+}
+
+/* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+
+@media (min-width: 320px) and (max-width: 480px) {
+  container-fluid {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  .logo-sizing {
+    width: 100px;
+    height: 100px;
+  }
+  .btn-warning {
+    background-color: #ff8500;
+    border-color: #ff8500;
+    color: #ffffff;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    padding: 1.05rem 1.5625rem;
+    border-radius: 5px;
+    position: relative;
+    font-weight: 400;
+    margin: 0.4rem 0.9rem;
+    border: 1px solid;
+    font-style: normal;
+    transition: all 0.2s ease-out;
+    display: inline-flex;
+    justify-content: center;
+    line-height: 1;
+    letter-spacing: 0.02em;
+  }
+
+  .sec-title-padding {
+    padding-top: 100px;
+  }
+  .nav-link {
+    font-weight: 500;
+    line-height: 70px;
+    letter-spacing: 0.02em;
+    position: relative;
+  }
+  .sec-1-img {
+    object-fit: cover;
+    background-position: 50% 50%;
+    height: 660px;
+  }
+  .rent {
+    color: #ff8500;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    letter-spacing: 0.3em;
+    font-weight: 500;
+    line-height: 1.12;
+    width: 100%;
+  }
+  .professional {
+    color: #000000;
+    font-family: "Jost", sans-serif;
+    font-size: 4rem;
+    letter-spacing: -0.01em;
+    font-weight: 500;
+  }
+  .align-center {
+    text-align: center;
+  }
+
+  /* SECTION 2 */
+  .sec-2-bg {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #0f2853;
+  }
+  .start {
+    color: #ffffff;
+    font-family: "Jost", sans-serif;
+    font-size: 3rem;
+    letter-spacing: -0.01em;
+    font-weight: 500;
+  }
+
+  /* SECTION 3 */
+  .sec3-img {
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+  }
+  .sec-3-div-con {
+    height: 500px;
+  }
+
+  .modern {
+    color: #ff8500;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    letter-spacing: 0.3em;
+    margin-bottom: 4px;
+    font-weight: 500;
+    line-height: 1.12;
+    width: 100%;
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+  }
+
+  /* SECTION 4 */
+  .sec-4-bg {
+    background-color: #0f2853;
+  }
+  .we {
+    font-family: "Jost", sans-serif;
+    font-size: 3rem;
+    margin: 0;
+    letter-spacing: -0.01em;
+    font-weight: 500;
+    color: #000000;
+    padding: 0;
+    font-style: normal;
+    line-height: 1.12;
+  }
+  .list-items {
+    list-style: none;
+    padding: 0;
+    color: #555b63;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+  .bb {
+    background: transparent;
+    color: #ffffff;
+    height: 200px;
+  }
+  .cards-h {
+    height: 237px;
+    border: none;
+  }
+
+  /* SECTION 8 */
+  .sec-8-bg {
+    background-color: #f7f8fa;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .orange-box {
+    background-color: #ff8500;
+    padding: 120px;
+  }
+  .blue-box {
+    background-color: #0f2853;
+    padding: 120px;
+  }
+  .ash-box {
+    background-color: #cccccc;
+    padding: 120px;
+  }
+  .svg-box-color {
+    color: white;
+  }
+
+  /* SECTION 9 */
+  .sec-9-bg {
+    background-color: #f7f8fa;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .lorem-main {
+    color: #555b63;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    line-height: 1.62;
+    width: 550px;
+  }
+
+  .btn-warning-general {
+    background-color: #ff8500;
+    border-color: #ff8500;
+  }
+
+  .Special-padding {
+    padding-top: 150px;
+    padding-bottom: 100px;
+  }
+
+  .sec-9-container {
+    padding-top: 120px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .img-sec9-arrange {
+    margin-left: 70px;
+  }
+  .blue-bg-sizing {
+    background-color: #0f2853;
+    height: 509px;
+    width: 500px;
+    position: relative;
+  }
+  .blue-bg-img-sizing {
+    width: 500px;
+    height: 509px;
+    position: absolute;
+    left: 30px;
+    bottom: 30px;
+  }
+  .bg-color-main {
+    background-color: #f7f8fa;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .black-lorem {
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    padding-bottom: 15px;
+    font-weight: 500;
+    color: #000000;
+    padding-bottom: 15px;
+    letter-spacing: normal;
+    line-height: 1.62;
+  }
+  .company {
+    color: #0f2853;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    padding-bottom: 15px;
+    font-weight: 500;
+    padding-bottom: 15px;
+    letter-spacing: normal;
+  }
+
+  /* SECTION 11 */
+  .input-group {
+    height: 50px;
+  }
+  .form-control {
+    border-radius: 0%;
+    background-color: transparent;
+  }
+  .footer-logo-sizing {
+    width: 120px;
+    height: 120px;
+  }
+
+  .lorem-sizing {
+    width: 290px;
+  }
+
+  .footer-lorem {
+    color: #555b63;
+    font-style: normal;
+    font-weight: 400;
+    cursor: pointer;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+  }
+
+  .sec-full-img {
+    background-image: url("../img/meeting.jpg");
+    height: 430px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  /* SECTION 5 */
+  .sec-5-sizing {
+    padding-top: 150px;
+  }
+  .off-con-position {
+    height: 328px;
+    width: 500px;
+    position: relative;
+  }
+
+  .office-img-1 {
+    background-image: url("../img/office1.jpg");
+    height: 328px;
+    width: 500px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .office-img-2 {
+    height: 328px;
+    width: 500px;
+    position: absolute;
+    bottom: 15px;
+  }
+
+  .office-img-3 {
+    background-image: url("../img/office3.jpg");
+    height: 328px;
+    width: 500px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .office-img-4 {
+    height: 328px;
+    width: 500px;
+    position: absolute;
+    bottom: 15px;
+  }
+  .office-text {
+    font-family: "Jost", sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+  }
+}
